@@ -1,5 +1,5 @@
 # KGGen-master
-Knowledge Graph Population via a Generative Fashion
+Knowledge Graph Population via a Generative Fashion. The code is implemented by Python 3 and Keras
 
 "CVAE_GAN_BERT_TransE.py" is the proposed algorithm.
 
